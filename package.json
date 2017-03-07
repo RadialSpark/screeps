@@ -6,6 +6,10 @@
   "bin": {
     "screeps": "bin/screeps.js"
   },
+  "scripts": {
+    "prestart": "node bin/screeps.js init",
+    "start": "node bin/screeps.js start"
+  },
   "author": "Artem Chivchalov <contact@screeps.com>",
   "license": "ISC",
   "repository": {
