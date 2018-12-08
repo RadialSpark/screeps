@@ -1,3 +1,51 @@
+#### 3.1.0
+ * Added game changes support according to this [changelog](https://blog.screeps.com/2018/09/changelog-2018-09-22/).
+
+#### 2.13.1
+* Hotfixes. 
+
+#### 2.13.0
+* Added game changes support according to this [changelog](http://blog.screeps.com/2018/03/changelog-2018-03-05/).
+ 
+#### 2.12.1
+* Hotfixes.
+
+#### 2.12.0
+* Add support for binary modules according to this [changelog](http://blog.screeps.com/2017/12/changelog-2017-12-14/).
+
+#### 2.11.0
+* Add support for new WebGL renderer.
+
+#### 2.10.1 - 2.10.4
+* Hotfixes.
+
+#### 2.10.0
+* Added game changes support according to this [changelog](http://blog.screeps.com/2017/09/changelog-2017-09-28/).
+
+#### 2.9.0
+* Added game changes support according to this [changelog](http://blog.screeps.com/2017/09/changelog-2017-09-19/).
+
+#### 2.8.1
+* Sandbox security hotfix
+
+#### 2.8.0
+* Added game changes support according to this [changelog](http://blog.screeps.com/2017/08/shards/).
+
+#### 2.7.2
+* Fixed a bug with inactive bots.
+
+#### 2.7.1
+* Added game changes according to this [changelog](http://blog.screeps.com/2017/06/changelog-2017-06-26/).
+
+#### 2.7.0
+* Added public memory segments support according to this [changelog](http://blog.screeps.com/2017/05/changelog-2017-05-26/).
+
+#### 2.6.0
+* Added game changes according to this [changelog](http://blog.screeps.com/2017/05/changelog-2017-05-11/).
+
+#### 2.5.0
+* Added support for Respawn Areas according to this [changelog](http://support.screeps.com/hc/en-us/articles/115001774029).
+
 #### 2.4.0
 * Added support for memory segments and other changes according to this [changelog](https://screeps.zendesk.com/hc/en-us/articles/115001536629).
 
